@@ -1,0 +1,2 @@
+Dane do przeniesienia do pliku KONSUMENT.TXT:
+Program wykonuje przeniesienia danych: randomowe znaki !@#$$w&*&^ oraz #!@425* :D
